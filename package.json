@@ -1,0 +1,15 @@
+{
+  "name": "@happyguestmx/guestapp-initializer",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install": "node init.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Hernández Larios",
+  "license": "ISC", 
+  "dependencies": {
+    "fs-extra": "^7.0.1"
+  }
+}
