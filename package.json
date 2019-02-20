@@ -1,14 +1,22 @@
 {
-  "name": "@happyguestmx/guestapp-initializer",
-  "version": "1.1.0",
+  "name": "@happyguestmx/guestapp-init",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "install": "node init.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaeh1/happyguestmx-guestapp-init.git"
+  },
   "author": "Rafael Hernández Larios",
-  "license": "ISC", 
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaeh1/happyguestmx-guestapp-init/issues"
+  },
+  "homepage": "https://github.com/rafaeh1/happyguestmx-guestapp-init#readme",
   "dependencies": {
     "fs-extra": "^7.0.1"
   }
